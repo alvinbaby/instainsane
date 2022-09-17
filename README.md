@@ -19,14 +19,14 @@ Instainsane is an Shell Script to perform multi-threaded brute force attack agai
 git clone https://github.com/alvinbaby/instainsane
 cd instainsane
 chmod +x instainsane.sh
-sudo ./instainsane.sh
+./instainsane.sh
 ```
 
 ### Install requirements (Curl, Tor, Openssl):
 
 ```
 chmod +x install.sh
-sudo ./install.sh
+./install.sh
 ```
 
 ### How it works?
